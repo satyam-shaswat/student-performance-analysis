@@ -100,7 +100,7 @@ The dataset contains information about:
 
 ### Test Preparation Course Dependency
 
-![Preparation Course](images/preparation_course dependancy.png)
+![Preparation Course](images/preparation_course_dependancy.png)
 
 ---
 
